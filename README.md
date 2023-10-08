@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiddharthKaushik25
+- 👋 Hi, I’m Siddharth Kaushik
 - 👀 I’m interested in Web Development, Programming, Graphic Design
 - 🌱 I’m currently learning DSA, App Development
 - 💞️ I’m looking to collaborate on projects that can make use of my skills
